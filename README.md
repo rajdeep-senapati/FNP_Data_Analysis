@@ -1,4 +1,4 @@
-### README.md: FNP Sales Analysis Project
+### FNP Sales Analysis Project
 
 ---
 
